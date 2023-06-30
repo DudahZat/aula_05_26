@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #f5f5db;
+}
+.container {
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#box1 {
+    background-color: #62dede;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #57add4;
+}
+
+#box2 {
+    background-color: #8762de;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #57add4;
+}
+#box3 {
+    background-color: #c7559b;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #57add4;
+}
+#box4 {
+    background-color: #3256a1;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #57add4;
+}
